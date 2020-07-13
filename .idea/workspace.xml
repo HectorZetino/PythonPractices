@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6f22f93-0bf2-460e-9852-1ea7004268a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Zookeeper" />
+  </component>
+  <component name="ProjectId" id="1cHPEjeIckDzemK1MzYCXuLS5M9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="zookeeper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Zookeeper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zookeeper/task/zookeeper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zookeeper/task/zookeeper/zookeeper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zookeeper" />
+        <item itemvalue="Python.zookeeper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6f22f93-0bf2-460e-9852-1ea7004268a5" name="Default Changelist" comment="" />
+      <created>1590182435342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590182435342</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2057" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590186115842">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state x="2057" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590186115842" />
+    <state x="2322" y="112" key="#zookeeper" timestamp="1590186144329">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state x="2322" y="112" key="#zookeeper/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590186144329" />
+    <state x="2383" y="240" key="FileChooserDialogImpl" timestamp="1590185344124">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state x="2383" y="240" key="FileChooserDialogImpl/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590185344124" />
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1590367269042">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590367269042" />
+    <state width="1323" height="238" key="GridCell.Tab.0.center" timestamp="1590367269042">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590367269042" />
+    <state width="1323" height="238" key="GridCell.Tab.0.left" timestamp="1590367269041">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590367269041" />
+    <state width="1323" height="238" key="GridCell.Tab.0.right" timestamp="1590367269042">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590367269042" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1590367269042">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590367269042" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1590367269042">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590367269042" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1590367269042">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590367269042" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1590367269042">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590367269042" />
+    <state x="2104" y="128" key="SettingsEditor" timestamp="1590342465074">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state x="2104" y="128" key="SettingsEditor/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590342465074" />
+    <state x="2299" y="309" key="com.intellij.ide.util.TipDialog" timestamp="1591811563389">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state x="2299" y="309" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1591811563389" />
+    <state x="2259" y="138" width="670" height="676" key="search.everywhere.popup" timestamp="1590236601829">
+      <screen x="1920" y="102" width="1366" height="768" />
+    </state>
+    <state x="2259" y="138" width="670" height="676" key="search.everywhere.popup/0.0.1536.864/1920.102.1366.768@1920.102.1366.768" timestamp="1590236601829" />
+  </component>
+</project>
